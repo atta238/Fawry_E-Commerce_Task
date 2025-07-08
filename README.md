@@ -1,6 +1,6 @@
 # 🛒 Fawry E-Commerce System
 
-This is a simple Java console application that simulates a basic e-commerce system.
+This is a simple Java console application that simulates a basic e-commerce system
 
 ## 🚀 Features
 
